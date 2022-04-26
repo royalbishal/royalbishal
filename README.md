@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bishal D. Tharu</h1>
 
-<h3 align="center">A passionate frontend developer and UI/UX designer From Kailali Nepal</h3>
+<h3 align="center">Programming is not about learning syntax, its about solving problem </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royalbishal&label=Profile%20views&color=0e75b6&style=flat" alt="bishaltharu" /> </p>
 
