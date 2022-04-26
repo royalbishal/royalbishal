@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishal D. Tharu</h1>
+<a href="#" target="blank"><img align="center" src="img1.gif"</a>
 
 <h3 align="center">Programming is not about learning syntax, its about solving problem </h3>
 
